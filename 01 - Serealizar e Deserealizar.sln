@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Biblioteca", "00_Bibliot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_SerializarXML", "01_SerializarXML\01_SerializarXML.csproj", "{1D3EE97F-6C6C-49DD-AC18-472FEEE9F0D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Deserealizar", "02_Deserealizar\02_Deserealizar.csproj", "{3B163E57-9FB7-4A40-BA79-4C8B47850EF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1D3EE97F-6C6C-49DD-AC18-472FEEE9F0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D3EE97F-6C6C-49DD-AC18-472FEEE9F0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D3EE97F-6C6C-49DD-AC18-472FEEE9F0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B163E57-9FB7-4A40-BA79-4C8B47850EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B163E57-9FB7-4A40-BA79-4C8B47850EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B163E57-9FB7-4A40-BA79-4C8B47850EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B163E57-9FB7-4A40-BA79-4C8B47850EF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
